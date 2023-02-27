@@ -1,5 +1,7 @@
 # SQL Scripts
 
+CREATE DATABASE Survey;
+GO
 USE [Survey]
 GO
 /****** Object:  Table [dbo].[QuestionOptions]    Script Date: 2/27/2023 10:20:33 PM ******/
